@@ -1,4 +1,4 @@
-# [Maria Eduarda Baltar] <img src="https://media.tenor.com/aARMnEHFZxQAAAAj/todoro-miyazaki.gif" width="50px">
+# Maria Eduarda Baltar <img src="https://media.tenor.com/aARMnEHFZxQAAAAj/todoro-miyazaki.gif" width="50px">
 
 Eu sou <strong>Maria Eduarda Baltar</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
