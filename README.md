@@ -1,10 +1,10 @@
 # Maria Eduarda Baltar <img src="https://media.tenor.com/aARMnEHFZxQAAAAj/todoro-miyazaki.gif" width="50px">
 
-Eu sou <strong>Maria Eduarda Baltar</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Maria Eduarda Baltar</strong>, <strong>Sou estudante de Análise e Desenvolvimento de Sistemas</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>JavaScript, SQL</strong> 
+- 💬 Pergunte-me sobre: <strong>Jogos, animais e outras coisas</strong>
+- 📣 Nós podemos falar em: <strong>Português(nativa) e Ingles intermediário</strong>
 
 <div align="center">
 
