@@ -2,7 +2,7 @@
 
 Eu sou <strong>Maria Eduarda Baltar</strong>, <strong>Sou estudante de Análise e Desenvolvimento de Sistemas</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>JavaScript, SQL</strong> 
+- 🚀 Atualmente estou aprendendo: <strong> HTML, CSS, JavaScript e SQL</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogos, animais e outras coisas</strong>
 - 📣 Nós podemos falar em: <strong>Português(nativa) e Ingles intermediário</strong>
 
