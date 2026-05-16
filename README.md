@@ -9,7 +9,7 @@ Eu sou <strong>Maria Eduarda Baltar</strong>, <strong>Sou estudante de Análise 
 <div align="center">
 
   <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=meduardabaltar@gmail.com
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link= meduardabaltar@gmail.com
 /></a>
 
   <a href="#" alt="Linkedin">
